@@ -1,0 +1,19 @@
+L = Suru
+R = Sesh
+
+Mid = (L+R)/2 ----(int)
+
+
+if value == Mid
+    got it
+
+else if value > Mid
+    L = Mid + 1
+
+else if value < Mid
+    R = Mid - 1
+
+
+
+L > R
+tar mane Sesh
