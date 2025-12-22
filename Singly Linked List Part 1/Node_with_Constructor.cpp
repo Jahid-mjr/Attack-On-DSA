@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+using namespace std;
 class Node{
 
     public:
@@ -16,7 +16,7 @@ class Node{
 
 };
 
-using namespace std;
+
 int main()
 {
     Node a(10),b(20),c(300);
@@ -31,4 +31,5 @@ int main()
    cout << a.next->next->val << endl;
     
     return 0;
+
 }
