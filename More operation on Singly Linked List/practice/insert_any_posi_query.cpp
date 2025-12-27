@@ -1,3 +1,5 @@
+//tail track rakha hoy nay, fixed korte hobe 
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -131,3 +133,4 @@ int main()
 
     return 0;
 }
+
