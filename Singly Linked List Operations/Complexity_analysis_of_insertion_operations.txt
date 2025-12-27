@@ -1,0 +1,3 @@
+Insert at head : ----- O(1)
+Insert at any position : ------ O(n) ---- n = index
+Insert at tail : --------- O(n)------- n = koyta node
